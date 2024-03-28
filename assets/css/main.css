@@ -3332,7 +3332,7 @@ input, select, textarea {
 
     #main {
         background-color: #ffffff;
-        color: #636363;
+        color: #ffffff;
         border-radius: 0.25em;
     }
 
@@ -3543,10 +3543,10 @@ input, select, textarea {
 
         #main header.major h2:after {
             background-color: #dddddd;
-            background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-            background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-            background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-            background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+            background-image: -moz-linear-gradient(90deg, #f9781b, #ffab62, #ffd59a);
+            background-image: -webkit-linear-gradient(90deg, #f9781b, #ffab62, #ffd59a);
+            background-image: -ms-linear-gradient(90deg, #f9781b, #ffab62, #ffd59a);
+            background-image: linear-gradient(90deg, #f9781b, #ffab62, #ffd59a);
         }
 
         #main table tbody tr {
