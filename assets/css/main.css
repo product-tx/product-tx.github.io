@@ -109,11 +109,11 @@ input, select, textarea {
     }
 
     body {
-        background-color: rgb(248, 173, 93);
-        background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #5f4d93 15%, rgb(69, 177, 219) 85%);
-        background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #5f4d93 15%, rgb(69, 177, 219) 85%);
-        background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #5f4d93 15%, rgb(69, 177, 219) 85%);
-        background-image: url("images/overlay.png"), linear-gradient(45deg, #5f4d93 15%, rgb(69, 177, 219) 85%);
+        background-color: rgb(255, 185, 80);
+        background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #F28C28 15%, rgb(255, 185, 80) 85%);
+        background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #F28C28 15%, rgb(255, 185, 80) 85%);
+        background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #F28C28 15%, rgb(255, 185, 80) 85%);
+        background-image: url("images/overlay.png"), linear-gradient(45deg, #F28C28 15%, rgb(255, 185, 80) 85%);
     }
 
         body.is-preload *, body.is-preload *:before, body.is-preload *:after {
