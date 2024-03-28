@@ -2280,23 +2280,23 @@ input, select, textarea {
             }
 
         .icon.style1 {
-            color: #efa8b0;
+            color: #ff5101;
         }
 
         .icon.style2 {
-            color: #c79cc8;
+            color: #ff7441;
         }
 
         .icon.style3 {
-            color: #a89cc8;
+            color: #ff8f17;
         }
 
         .icon.style4 {
-            color: #9bb2e1;
+            color: #ffaa42;
         }
 
         .icon.style5 {
-            color: #8cc9f0;
+            color: #fab95e;
         }
 
         @media screen and (max-width: 1680px) {
@@ -2881,23 +2881,23 @@ input, select, textarea {
         }
 
             .statistics li.style1 {
-                background-color: #efa8b0;
+                background-color: #ff5101;
             }
 
             .statistics li.style2 {
-                background-color: #c79cc8;
+                background-color: #ff7441;
             }
 
             .statistics li.style3 {
-                background-color: #a89cc8;
+                background-color: #ff8f17;
             }
 
             .statistics li.style4 {
-                background-color: #9bb2e1;
+                background-color: #ffaa42;
             }
 
             .statistics li.style5 {
-                background-color: #8cc9f0;
+                background-color: #fab95e;
             }
 
             .statistics li strong, .statistics li b {
